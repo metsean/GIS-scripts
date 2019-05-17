@@ -11,7 +11,7 @@ output: .stl (ASCII STL https://en.wikipedia.org/wiki/STL_(file_format))
 
 default output coordinates are northings/eastings. Set X0,Y0 to centre locally
 
-Test data is '3D Wellington' database: http://wcc.maps.arcgis.com/home/item.html?id=4561446e7f384a969cfbe368e9ca0002
+Test data is '3D Wellington' database: https://www.arcgis.com/home/item.html?id=9c39b3bcc9d24358a89c20fcffd909b7
 
 
 @author: Sean
